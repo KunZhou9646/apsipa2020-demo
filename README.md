@@ -1,2 +1,2 @@
-# apsipa2020-demo
-This is the demo page for APSIPA 2020
+# IEEE SLT2020-demo
+This is the demo page for the paper "VAW-GAN FOR DISENTANGLEMENT AND RECOMPOSITION OF EMOTIONALELEMENTS IN SPEECH"
